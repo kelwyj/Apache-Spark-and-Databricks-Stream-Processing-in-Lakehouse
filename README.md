@@ -10,7 +10,6 @@ This is the central repository for all the materials related to <em>Apache Spark
 </a>
 
 <h2> Description </h2>
-<p align="justify">
   I am creating Apache Spark and Databricks - Stream Processing in Lakehouse using the Python Language and PySpark API. This course will help you understand Real-time Stream processing using Apache Spark and Databricks Cloud and apply that knowledge to build real-time stream processing solutions. This course is example-driven and follows a working session-like approach. We will take a live coding approach and explain all the needed concepts.
 </p>
 
